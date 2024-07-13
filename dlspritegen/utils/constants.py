@@ -1,0 +1,5 @@
+ASSETS_PATH = "assets"
+DATASET_ROOT_PATH = f"{ASSETS_PATH}/pixel-art-16-dataset"
+DATASET_PATH = f"{DATASET_ROOT_PATH}/images"
+SPRITES_NPY_PATH = f"{DATASET_ROOT_PATH}/sprites.npy"
+SPRITES_LABELS_NPY_PATH = f"{DATASET_ROOT_PATH}/sprites_labels.npy"
